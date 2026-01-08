@@ -1,0 +1,18 @@
+# LangChain 学习项目依赖
+
+# 核心 LangChain 包
+langchain
+langchain-community
+langchain-openai
+
+# 其他常用包
+openai
+tiktoken
+python-dotenv
+
+# 可选依赖（根据需要安装）
+# langchain-anthropic    # Anthropic 模型支持
+# langchain-google       # Google 模型支持
+# requests              # HTTP 请求
+# beautifulsoup4        # 网页解析
+# wikipedia            # 维基百科工具
